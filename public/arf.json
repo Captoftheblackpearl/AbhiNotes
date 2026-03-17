@@ -1,0 +1,395 @@
+[
+  {
+    "name": "ABHIDHAMMA",
+    "type": "folder",
+    "children": [
+      {
+        "name": "Abhidhamma Pitaka",
+        "type": "folder",
+        "children": [
+          {
+            "name": "Dhammasaṇganī",
+            "type": "folder",
+            "children": [
+              {
+                "name": "Citta",
+                "type": "folder"
+              },
+              {
+                "name": "Rūpa",
+                "type": "folder"
+              },
+              {
+                "name": "Nikkhepa",
+                "type": "folder"
+              },
+              {
+                "name": "Atthuddhāra",
+                "type": "folder"
+              }
+            ]
+          },
+          {
+            "name": "Vibhaṇga",
+            "type": "folder",
+            "children": [
+              {
+                "name": "Khandha",
+                "type": "folder"
+              },
+              {
+                "name": " Āyatana",
+                "type": "folder"
+              },
+              {
+                "name": "Dhātu",
+                "type": "folder"
+              }, 
+              {
+                "name": "Sacca",
+                "type": "folder"
+              },
+              {
+                "name": "Indriya",
+                "type": "folder"
+              },
+              {
+                "name": "Paccayākāra",
+                "type": "folder"
+              },
+              {
+                "name": "Satipaṭṭhāna",
+                "type": "folder"
+              },
+              {
+                "name": "Sammappadhāna",
+                "type": "folder"
+              },
+              {
+                "name": "Iddhipāda",
+                "type": "folder" 
+              },
+              {
+                "name": "Bojjhaṅga",
+                "type": "folder"
+              },
+              {
+                "name": "Jhana",
+                "type": "folder"
+              },
+              {
+                "name": "Appamaññā",
+                "type": "folder"
+              },
+              {
+                "name": "Magga",
+                "type": "folder"
+              },
+              {
+                "name": "Sikkhāpada",
+                "type": "folder"
+              },
+              {
+                "name": "Paṭisambhidā",
+                "type": "folder"
+              },
+              {
+                "name": "Ñāṇa",
+                "type": "folder"
+              },
+              {
+                "name": "Khuddakavatthu",
+                "type": "folder"
+              },
+              {
+                "name": "Dhammahadaya",
+                "type": "folder"
+              }
+            ]
+          },
+          {
+            "name": "Dhātukathā",
+            "type": "url",
+            "children": [
+              {
+                "name": "Dhātu",
+                "type": "folder"
+              },
+              {
+                "name": "Khandha",
+                "type": "folder"
+              },
+              {
+                "name": "Āyatana",
+                "type": "folder"
+              }
+            ]
+          },
+          {
+            "name": "Puggalapaññatti",
+            "type": "url"
+          },
+          {
+            "name": "Kathāvatthu",
+            "type": "url"
+          },
+          {
+            "name": "Yamaka",
+            "type": "url",
+            "children": [
+              {
+                "name": "Mūla",
+                "type": "folder"
+              },
+              {
+                "name": "Khandha",
+                "type": "folder"
+              },
+              {
+                "name": "Āyatana",
+                "type": "folder"
+              },
+              {
+                "name": "Dhātu",
+                "type": "folder"
+              },
+              {
+                "name": "Sacca",
+                "type": "folder"
+              },
+              {
+                "name": "Saṇkara",
+                "type": "folder"
+              },
+              {
+                "name": "Anusaya",
+                "type": "folder"
+              },
+              {
+                "name": "Citta",
+                "type": "folder"
+              },
+              {
+                "name": "Dhamma",
+                "type": "folder"
+              },
+              {
+                "name": "Indriya",
+                "type": "folder"
+              }
+            ]
+          },
+          {
+            "name": "Paṭṭhāna",
+            "type": "url",
+            "children": [
+              {
+                "name": "24 paccaya",
+                "type": "folder"
+              }
+            ]
+            
+          }
+        ]
+      },
+      {
+        "name": "Abhidhamma Realities",
+        "type": "folder",
+        "children": [
+          {
+            "name": "Paññatti-sacca",
+            "type": "folder",
+            "children": [
+              {"name": "Sammuti-sacca",
+                "type": "folder"
+              }
+            ]
+          },
+          {
+            "name": "Paramattha-sacca",
+            "type": "folder",
+            "children": [
+              {
+                "name": "Citta",
+                "type": "folder",
+                "children": [
+                  {
+                    "name": "54 Kāmāvacara Citta",
+                    "type": "folder",
+                    "children": [
+                      {
+                        "name": "12 Akusala Citta",
+                        "type": "folder",
+                        "children": [
+                          {
+                            "name": "8 Lobhamūla Citta",
+                            "type": "folder",
+                            "children": [
+                              {
+                                "name": "..."
+                              },
+                              {
+                                "name": "..."
+                              },
+                              {
+                                "name": "..."
+                              },  
+                              {
+                                "name": "..."
+                              },  
+                              {
+                                "name": "..."
+                              },  
+                              {
+                                "name": "..."
+                              },  
+                              {
+                                "name": "..."
+                              },
+                              {
+                                "name": "..."
+                              }
+                            ]
+                          },
+                          {
+                            "name": "2 Mohamūla Citta",
+                            "type": "folder",
+                            "children": [
+                              {
+                                "name": "..."
+                              },
+                              {
+                                "name": "..."
+                              }
+                            ]
+                          },
+                          {
+                            "name": "2 Dosamūla Citta",
+                            "type": "folder",
+                            "children": [
+                              {
+                                "name": "..."
+                              },
+                              {
+                                "name": "..."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "18 Ahetuka Citta",
+                        "type": "folder"
+                      },
+                      {
+                        "name": "24 Kāmasobhana Citta",
+                        "type": "folder"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "15 Rūpāvacara Citta",
+                    "type": "folder"
+                  },
+                  {
+                    "name": "12 Arūpāvacara Citta",
+                    "type": "folder"
+                  },
+                  {
+                    "name": "8/40 Lokuttara Citta",
+                    "type": "folder"
+                  }
+                ]
+              },
+              {
+                "name": "Cetasika",
+                "type": "folder",
+                "children": []
+              },
+              {
+                "name": "Rūpa",
+                "type": "folder",
+                "children": [
+                  {
+                    "name": "4 Rūpa Rūpa",
+                    "type": "folder",
+                    "children": [
+                      {
+                        "name": "...",
+                        "type": "folder"
+                      },
+                      {
+                        "name": "...",
+                        "type": "folder"
+                      },
+                      {
+                        "name": "...",
+                        "type": "folder"
+                      },
+                      {
+                        "name": "...",
+                        "type": "folder"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "18 Rūpāvacara Rūpa",
+                    "type": "folder"
+                  },
+                  {
+                    "name": "4 Arūpāvacara Rūpa",
+                    "type": "folder"
+                  }
+                ]
+              },
+              {
+                "name": "Nibbāna",
+                "type": "url"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Pancha Khandha",
+        "type": "folder",
+        "children": [
+          {
+            "name": "Rūpa Khandha",
+            "type": "folder"
+          },
+          {
+            "name": "Sañña Khandha",
+            "type": "folder"
+          },
+          {
+            "name": "Vedana Khandha",
+            "type": "folder"
+          },
+          {
+            "name": "Saṇkara Khandha",
+            "type": "folder"
+          },
+          {
+            "name": "Viññāṇa Khandha",
+            "type": "folder"
+          }
+        ]
+      },
+      {
+        "name": "Study Resources",
+        "type": "folder",
+        "children": [
+          {
+            "name": "Abhidhammattasaṇgaha",
+            "type": "url"
+          },
+          {
+            "name": "Handbook of Abhidhamma",
+            "type": "url"
+          }
+        ]
+      }
+    ]
+  }
+]
