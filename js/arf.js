@@ -1,15 +1,15 @@
-var margin = [20, 120, 20, 140],
-    width = 1280 - margin[1] - margin[3],
-    height = 800 - margin[0] - margin[2],
+var margin = [40, 20, 40, 20], // Top, Right, Bottom, Left
+    width = 1800 - margin[1] - margin[3], // Increased for horizontal spread
+    height = 2000 - margin[0] - margin[2], // Increased for vertical depth
     i = 0,
     duration = 1250,
     root;
 
 var tree = d3.layout.tree()
-    .size([height, width]);
+    .size([width, height]);
 
 var diagonal = d3.svg.diagonal()
-    .projection(function(d) { return [d.y, d.x]; });
+    .projection(function(d) { return [d.x, d.y]; });
 
 var vis = d3.select("#body").append("svg:svg")
     .attr("width", width + margin[1] + margin[3])
@@ -65,8 +65,7 @@ function update(source) {
   // Enter any new nodes at the parent's previous position.
   var nodeEnter = node.enter().append("svg:g")
       .attr("class", "node")
-      .attr("transform", function(d) { return "translate(" + source.y0 + "," + source.x0 + ")"; })
-      .on("click", function(d) { toggle(d); update(d); });
+.attr("transform", function(d) { return "translate(" + source.x0 + "," + source.y0 + ")"; })      .on("click", function(d) { toggle(d); update(d); });
 
   nodeEnter.append("svg:circle")
       .attr("r", 1e-6)
@@ -91,8 +90,7 @@ function update(source) {
   // Transition nodes to their new position.
   var nodeUpdate = node.transition()
       .duration(duration)
-      .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; });
-
+.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
   nodeUpdate.select("circle")
       .attr("r", 6)
       .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
