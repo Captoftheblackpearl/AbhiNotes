@@ -17,6 +17,10 @@ noscript p{
   display: flex-wrap;
 }
 
+#darkModeToggle {
+all: revert;
+}
+
 #body {
   margin: 0 auto;
   position: relative;
